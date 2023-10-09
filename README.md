@@ -459,7 +459,7 @@
             },
             }
         }
-        @import "./src/styles/variable.less";后面的;不要忘记，不然会报错!
+        @import "./src/styles/variable.scss";后面的;不要忘记，不然会报错!
         配置完毕你会发现scss提供这些全局变量可以在组件样式中使用了！！！
     ```
 
